@@ -8,7 +8,7 @@ public class NigiriW {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Nigiri - Cài xiàn - Tol kariki");
+		System.out.println("Nigiri - Cai xian - Tol kariki");
 		System.out.println();
 		System.out.println("First player to pick 1 or 2 black stones,");
 		
